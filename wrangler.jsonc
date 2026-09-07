@@ -3,6 +3,7 @@
   "name": "got-diesel-website",
   "compatibility_date": "2026-09-06",
   "assets": {
-    "directory": "./Public"
+    "directory": "./Public",
+    "not_found_handling": "single-page-application"
   }
 }
