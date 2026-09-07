@@ -1,0 +1,12 @@
+Got Diesel Website
+Cloudflare Worker static-assets site.
+Structure
+	●	wrangler.jsonc — Cloudflare deployment config
+	●	public/index.html — website
+	●	public/got-diesel-logo-primary.png — main horizontal logo + tagline
+	●	public/got-diesel-logo-stacked.png — stacked/social version
+	●	public/got-diesel-logo-icon.png — GD icon/favicon
+	●	public/got-diesel-wordmark.png — compact header/footer wordmark
+Cloudflare
+Build command: leave blank Deploy command: npx wrangler deploy
+Phone number is configured as 410-627-4166.
